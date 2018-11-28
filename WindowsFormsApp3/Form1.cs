@@ -16,7 +16,7 @@ namespace WindowsFormsApp3
         {
             InitializeComponent();
         }
-        public string[] listData = { "K-01", "K-91", "K-81", "K-71", "MK-01", "MK-91" };
+        public string[] listData = { "ПС-1501", "K-91", "K-81", "K-71", "MK-01", "MK-91" };
 
         private void Form1_Load(object sender, EventArgs e)
         {
